@@ -10,8 +10,6 @@
   <picture xsi:type="core:PictureRef">
     <picture>CommonPicture.ум_Шестерни</picture>
   </picture>
-  <content>b739a7fa-52b6-4696-8278-179a529097f2</content>
-  <content>b6b87d16-0ea1-4188-85de-077600df7fd6</content>
   <content>CommonModule.ум_БСП_СтроковыеФункцииКлиентСервер</content>
   <content>CommonModule.ум_БСП_КомпоновкаДанныхКлиентСервер</content>
   <content>CommonModule.ум_ОбщегоНазначенияКлиентСервер</content>

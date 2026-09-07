@@ -16,7 +16,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Зыков Александр Сергеевич</vendor>
-  <version>3.0.0.1</version>
+  <version>3.0.0.2</version>
   <usedMobileApplicationFunctionalities/>
   <caption>
     <key>ru</key>
@@ -54,7 +54,7 @@
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
   <interfaceCompatibilityMode>Version8_5EnableTaxi</interfaceCompatibilityMode>
   <version85InterfaceMigrationMode>Use</version85InterfaceMigrationMode>
-  <compatibilityMode>8.5.1</compatibilityMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
   <languages uuid="f56232ce-f28f-4ce9-a721-86e0fec4c684">
     <name>Русский</name>
     <synonym>
