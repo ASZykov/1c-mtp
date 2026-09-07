@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="b53350f9-bfbc-49c0-abca-7c5ea9e09c3c">
+  <name>ум_МногопотчныйКонвейер</name>
+  <synonym>
+    <key>ru</key>
+    <value>Многопоточный конвейер</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <picture xsi:type="core:PictureRef">
+    <picture>CommonPicture.ум_Шестерни</picture>
+  </picture>
+  <content>b739a7fa-52b6-4696-8278-179a529097f2</content>
+  <content>b6b87d16-0ea1-4188-85de-077600df7fd6</content>
+  <content>CommonModule.ум_БСП_СтроковыеФункцииКлиентСервер</content>
+  <content>CommonModule.ум_БСП_КомпоновкаДанныхКлиентСервер</content>
+  <content>CommonModule.ум_ОбщегоНазначенияКлиентСервер</content>
+  <content>CommonModule.ум_БСП_СтандартныеПодсистемыПовтИсп</content>
+  <content>CommonModule.ум_БСП_ОбщегоНазначенияСлужебныйКлиентСервер</content>
+  <content>CommonModule.ум_БСП_ОбщегоНазначенияКлиентСервер</content>
+  <content>CommonModule.ум_БСП_ОбщегоНазначения</content>
+  <content>CommonForm.ум_ФормаПрогрессБар</content>
+  <subsystems>МногопоточныйКонвейер</subsystems>
+  <subsystems>Константы</subsystems>
+</mdclass:Subsystem>

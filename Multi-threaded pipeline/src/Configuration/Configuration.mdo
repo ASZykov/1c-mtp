@@ -1,36 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="394a9c71-5aaa-43aa-93b2-1b3ece7612ee">
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="82f8a08c-19af-4744-b504-f17a12687002">
   <name>МногопоточныйКонвейер</name>
   <synonym>
     <key>ru</key>
-    <value>Многопоточный конвейер</value>
+    <value>Многопоточный конвейер, редакция 3</value>
   </synonym>
-  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="c6253b19-04b2-4fc3-9c33-21c5a7046961"/>
-  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ef3bbb07-4721-4b7b-8a52-c76f4af3f18a"/>
-  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="8a58579c-f1b9-435c-b72e-97d96f40bdad"/>
-  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="f397bc09-da53-4aa6-ab00-a9770726c619"/>
-  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="f71cb90c-71a7-448c-960d-a1057c157dcf"/>
-  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="ddd125c8-7325-48f5-882a-94172986c13a"/>
-  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="23b962ea-3edc-4fb3-b115-eeadde9e7d7a"/>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="9c7b7835-c2ac-4e26-a914-5c5a852eb548"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="b4f8b26e-79f1-4d69-ac79-f4470704a21b"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="080730bc-1a66-454b-8232-6fd412a18921"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="0ca9bcd2-ccb8-42c9-ab32-70564b934b65"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="6b698944-0a3e-457c-9e5a-32d8f0a82c7b"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="50064de4-5fc3-4522-a6f9-184fcf262516"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="24d15076-1e8d-4096-8504-84bdc88bb7ba"/>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
-  <usedMobileApplicationFunctionalities>
-    <functionality>
-      <use>true</use>
-    </functionality>
-    <functionality>
-      <functionality>OSBackup</functionality>
-      <use>true</use>
-    </functionality>
-  </usedMobileApplicationFunctionalities>
+  <vendor>Зыков Александр Сергеевич</vendor>
+  <version>3.0.0.1</version>
+  <usedMobileApplicationFunctionalities/>
+  <caption>
+    <key>ru</key>
+    <value>Многопоточный конвейер</value>
+  </caption>
+  <shortCaption>
+    <key>ru</key>
+    <value>Многопоточный конвейер</value>
+  </shortCaption>
   <defaultLanguage>Language.Русский</defaultLanguage>
+  <briefInformation>
+    <key>ru</key>
+    <value>Многопоточный конвейер, редакция 3</value>
+  </briefInformation>
+  <detailedInformation>
+    <key>ru</key>
+    <value>Многопоточный конвейер, редакция 3</value>
+  </detailedInformation>
+  <logo/>
+  <copyright>
+    <key>ru</key>
+    <value>Зыков Александр Сергеевич</value>
+  </copyright>
+  <vendorInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/ASZykov</value>
+  </vendorInformationAddress>
+  <configurationInformationAddress>
+    <key>ru</key>
+    <value>https://github.com/ASZykov/1c-um</value>
+  </configurationInformationAddress>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <interfaceCompatibilityMode>Version8_5EnableTaxi</interfaceCompatibilityMode>
+  <version85InterfaceMigrationMode>Use</version85InterfaceMigrationMode>
   <compatibilityMode>8.5.1</compatibilityMode>
-  <languages uuid="5f205439-13c6-4592-a83c-982ab150f58a">
+  <languages uuid="f56232ce-f28f-4ce9-a721-86e0fec4c684">
     <name>Русский</name>
     <synonym>
       <key>ru</key>
@@ -38,4 +63,51 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.ум_МногопотчныйКонвейер</subsystems>
+  <commonPictures>CommonPicture.ум_Шестерни</commonPictures>
+  <roles>Role.ум_ЧтениеПакетыДанных</roles>
+  <commonTemplates>CommonTemplate.ум_ОписаниеПреобразованияXSLДляОтображенияXML</commonTemplates>
+  <commonModules>CommonModule.ум_БСП_КомпоновкаДанныхКлиентСервер</commonModules>
+  <commonModules>CommonModule.ум_БСП_ОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.ум_БСП_ОбщегоНазначенияКлиентСервер</commonModules>
+  <commonModules>CommonModule.ум_БСП_ОбщегоНазначенияСлужебныйКлиентСервер</commonModules>
+  <commonModules>CommonModule.ум_БСП_СтандартныеПодсистемыПовтИсп</commonModules>
+  <commonModules>CommonModule.ум_БСП_СтроковыеФункцииКлиентСервер</commonModules>
+  <commonModules>CommonModule.ум_ИзменениеПакетовДанных</commonModules>
+  <commonModules>CommonModule.ум_ЛогированиеПакетыДанных</commonModules>
+  <commonModules>CommonModule.ум_ОбщегоНазначенияКлиентСервер</commonModules>
+  <commonModules>CommonModule.ум_ПакетыДанных</commonModules>
+  <commonModules>CommonModule.ум_ПакетыДанныхОбработка</commonModules>
+  <commonModules>CommonModule.ум_ПакетыДанныхОбслуживание</commonModules>
+  <commonModules>CommonModule.ум_ПакетыДанныхОбщегоНазначения</commonModules>
+  <commonModules>CommonModule.ум_ПакетыДанныхПовтИсп</commonModules>
+  <commonModules>CommonModule.ум_ПакетыДанныхСерверПривилегированный</commonModules>
+  <commonModules>CommonModule.ум_РаботаСКонстантами</commonModules>
+  <commonModules>CommonModule.ум_СозданиеПакетовДанных</commonModules>
+  <commonModules>CommonModule.ум_ШаблонФункцииОбработчикаПакета</commonModules>
+  <scheduledJobs>ScheduledJob.ум_МногопоточныйКонвейерКонтрольРабочихФЗ</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ум_МногопоточныйКонвейерОбработкаПакетов</scheduledJobs>
+  <scheduledJobs>ScheduledJob.ум_МногопоточныйКонвейерОбслуживаниеСистемы</scheduledJobs>
+  <commonCommands>CommonCommand.ум_Пакеты</commonCommands>
+  <constants>Constant.ум_ВключитьЛогированиеФЗ</constants>
+  <constants>Constant.ум_ТаймаутУдаленияЛоговФЗ</constants>
+  <commonForms>CommonForm.ум_ФормаПрогрессБар</commonForms>
+  <commonForms>CommonForm.ум_ФормаПросмотраДанных</commonForms>
+  <commonForms>CommonForm.ум_ФормаПросмотраРедактированиеДанных</commonForms>
+  <catalogs>Catalog.ум_КлючиАналитикиПакетовДанных</catalogs>
+  <catalogs>Catalog.ум_ОписанияОшибокОбработкиПакетов</catalogs>
+  <catalogs>Catalog.ум_СпособыОбработкиПакетов</catalogs>
+  <enums>Enum.ум_ВидыФЗПакетовДанных</enums>
+  <enums>Enum.ум_ЛогированиеСобытийФЗ</enums>
+  <enums>Enum.ум_СостоянияПакетаДанных</enums>
+  <reports>Report.ум_АнализМногопоточнойОбработки</reports>
+  <dataProcessors>DataProcessor.ум_Администрирование</dataProcessors>
+  <dataProcessors>DataProcessor.ум_ИзменениеПакетовДанных</dataProcessors>
+  <dataProcessors>DataProcessor.ум_СозданиеПакетовДанных</dataProcessors>
+  <informationRegisters>InformationRegister.ум_ЖурналСобытийПакетовДанных</informationRegisters>
+  <informationRegisters>InformationRegister.ум_ЗначенияКонстант</informationRegisters>
+  <informationRegisters>InformationRegister.ум_ЛогФоновыхЗаданийПакетов</informationRegisters>
+  <informationRegisters>InformationRegister.ум_ПакетыДанных</informationRegisters>
+  <informationRegisters>InformationRegister.ум_ПакетыДанныхДанные</informationRegisters>
+  <chartsOfCharacteristicTypes>ChartOfCharacteristicTypes.ум_Константы</chartsOfCharacteristicTypes>
 </mdclass:Configuration>
