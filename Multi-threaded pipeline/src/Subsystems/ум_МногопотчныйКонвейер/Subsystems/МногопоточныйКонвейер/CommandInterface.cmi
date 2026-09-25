@@ -39,6 +39,14 @@
       <command>CommonForm.ум_ФормаПросмотраДанных.StandardCommand.Open</command>
       <visible/>
     </visibilityFragments>
+    <visibilityFragments>
+      <command>Constant.ум_УдалятьЛогиФЗ.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
+    <visibilityFragments>
+      <command>CommonForm.ум_ФормаПросмотраРедактированиеДанных.StandardCommand.Open</command>
+      <visible/>
+    </visibilityFragments>
   </commandsVisibility>
   <commandsPlacement>
     <placementFragments>
@@ -70,6 +78,8 @@
       <commands>Constant.ум_ВключитьЛогированиеФЗ.StandardCommand.Open</commands>
       <commands>Constant.ум_ТаймаутУдаленияЛоговФЗ.StandardCommand.Open</commands>
       <commands>CommonForm.ум_ФормаПросмотраДанных.StandardCommand.Open</commands>
+      <commands>Constant.ум_УдалятьЛогиФЗ.StandardCommand.Open</commands>
+      <commands>CommonForm.ум_ФормаПросмотраРедактированиеДанных.StandardCommand.Open</commands>
     </orderFragments>
   </commandsOrder>
 </cmi:CommandInterface>

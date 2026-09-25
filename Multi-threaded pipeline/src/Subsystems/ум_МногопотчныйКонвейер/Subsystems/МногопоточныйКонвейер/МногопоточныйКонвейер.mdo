@@ -9,7 +9,6 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>ScheduledJob.ум_МногопоточныйКонвейерОбработкаПакетов</content>
   <content>ScheduledJob.ум_МногопоточныйКонвейерОбслуживаниеСистемы</content>
-  <content>CommonModule.ум_ПакетыДанныхСерверПривилегированный</content>
   <content>CommonTemplate.ум_ОписаниеПреобразованияXSLДляОтображенияXML</content>
   <content>Catalog.ум_СпособыОбработкиПакетов</content>
   <content>Enum.ум_СостоянияПакетаДанных</content>
@@ -41,5 +40,7 @@
   <content>CommonModule.ум_РаботаСКонстантами</content>
   <content>DataProcessor.ум_СозданиеПакетовДанных</content>
   <content>CommonModule.ум_СозданиеПакетовДанных</content>
+  <content>Constant.ум_УдалятьЛогиФЗ</content>
+  <content>CommonForm.ум_ФормаПросмотраРедактированиеДанных</content>
   <parentSubsystem>Subsystem.ум_МногопотчныйКонвейер</parentSubsystem>
 </mdclass:Subsystem>

@@ -20,12 +20,4 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
-  <templates uuid="9e012ca0-35ef-41c0-b2f0-d05ebe599f1b">
-    <name>СтатистикаПакетов</name>
-    <synonym>
-      <key>ru</key>
-      <value>Статистика пакетов</value>
-    </synonym>
-    <templateType>DataCompositionSchema</templateType>
-  </templates>
 </mdclass:DataProcessor>

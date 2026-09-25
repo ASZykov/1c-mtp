@@ -1237,6 +1237,7 @@
           <readOnly>true</readOnly>
           <autoMaxWidth>true</autoMaxWidth>
           <autoMaxHeight>true</autoMaxHeight>
+          <heightInTableRows>3</heightInTableRows>
           <autoMaxRowsCount>true</autoMaxRowsCount>
           <selectionMode>MultiRow</selectionMode>
           <header>true</header>
@@ -1362,6 +1363,44 @@
             <contextMenu>
               <name>Константыум_ЛогированиеФЗКонтекстноеМеню</name>
               <id>784</id>
+              <autoFill>true</autoFill>
+            </contextMenu>
+            <type>CheckBoxField</type>
+            <editMode>Enter</editMode>
+            <showInHeader>true</showInHeader>
+            <headerHorizontalAlign>Left</headerHorizontalAlign>
+            <showInFooter>true</showInFooter>
+            <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+          </items>
+          <items xsi:type="form:FormField">
+            <name>Константыум_УдалятьЛогиФЗ</name>
+            <id>1117</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
+            <dataPath xsi:type="form:DataPath">
+              <segments>КонстантыУмов.ум_УдалятьЛогиФЗ</segments>
+            </dataPath>
+            <titleLocation>Right</titleLocation>
+            <handlers>
+              <event>OnChange</event>
+              <name>Константыум_УдалятьЛогиФЗПриИзменении</name>
+            </handlers>
+            <extendedTooltip>
+              <name>Константыум_УдалятьЛогиФЗРасширеннаяПодсказка</name>
+              <id>1119</id>
+              <type>Label</type>
+              <autoMaxWidth>true</autoMaxWidth>
+              <autoMaxHeight>true</autoMaxHeight>
+              <extInfo xsi:type="form:LabelDecorationExtInfo">
+                <horizontalAlign>Left</horizontalAlign>
+              </extInfo>
+            </extendedTooltip>
+            <contextMenu>
+              <name>Константыум_УдалятьЛогиФЗКонтекстноеМеню</name>
+              <id>1118</id>
               <autoFill>true</autoFill>
             </contextMenu>
             <type>CheckBoxField</type>

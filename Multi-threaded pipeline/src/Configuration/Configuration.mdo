@@ -16,7 +16,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Зыков Александр Сергеевич</vendor>
-  <version>3.0.0.2</version>
+  <version>3.0.0.3</version>
   <usedMobileApplicationFunctionalities/>
   <caption>
     <key>ru</key>
@@ -46,7 +46,7 @@
   </vendorInformationAddress>
   <configurationInformationAddress>
     <key>ru</key>
-    <value>https://github.com/ASZykov/1c-um</value>
+    <value>https://github.com/ASZykov/1c-mtp</value>
   </configurationInformationAddress>
   <dataLockControlMode>Managed</dataLockControlMode>
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
@@ -81,7 +81,6 @@
   <commonModules>CommonModule.ум_ПакетыДанныхОбслуживание</commonModules>
   <commonModules>CommonModule.ум_ПакетыДанныхОбщегоНазначения</commonModules>
   <commonModules>CommonModule.ум_ПакетыДанныхПовтИсп</commonModules>
-  <commonModules>CommonModule.ум_ПакетыДанныхСерверПривилегированный</commonModules>
   <commonModules>CommonModule.ум_РаботаСКонстантами</commonModules>
   <commonModules>CommonModule.ум_СозданиеПакетовДанных</commonModules>
   <commonModules>CommonModule.ум_ШаблонФункцииОбработчикаПакета</commonModules>
@@ -91,6 +90,7 @@
   <commonCommands>CommonCommand.ум_Пакеты</commonCommands>
   <constants>Constant.ум_ВключитьЛогированиеФЗ</constants>
   <constants>Constant.ум_ТаймаутУдаленияЛоговФЗ</constants>
+  <constants>Constant.ум_УдалятьЛогиФЗ</constants>
   <commonForms>CommonForm.ум_ФормаПрогрессБар</commonForms>
   <commonForms>CommonForm.ум_ФормаПросмотраДанных</commonForms>
   <commonForms>CommonForm.ум_ФормаПросмотраРедактированиеДанных</commonForms>

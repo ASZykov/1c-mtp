@@ -108,42 +108,35 @@
   <defaultPresentation>AsDescription</defaultPresentation>
   <predefined>
     <items id="12d7d3f0-e8dd-4808-bea1-62842e107f14">
-      <name>КонтрольРабочихФЗ_ЗАВЕРШЕНРабочееФЗ</name>
+      <name>КонтрольРабочихФЗ_ЗавершеноАварийноРабочееФЗ</name>
       <description>Контроль рабочих ФЗ: ЗАВЕРШЕНО АВАРИЙНО рабочее ФЗ</description>
       <code xsi:type="core:StringValue">
         <value></value>
       </code>
     </items>
     <items id="9f2abbe4-cf2b-4d54-a1c4-3544b22dd0bf">
-      <name>КонтрольРабочихФЗ_ЗАВЕРШЕНОРабочееФЗ</name>
+      <name>КонтрольРабочихФЗ_ЗавершеноРабочееФЗ</name>
       <description>Контроль рабочих ФЗ: ЗАВЕРШЕНО рабочее ФЗ</description>
       <code xsi:type="core:StringValue">
         <value></value>
       </code>
     </items>
-    <items id="1184c478-50e4-42e6-bfb9-3c49ab7cad13">
-      <name>КонтрольРабочихФЗ_НЕНАЙДЕН</name>
-      <description>Контроль рабочих ФЗ: НЕ НАЙДЕН</description>
-      <code xsi:type="core:StringValue">
-        <value></value>
-      </code>
-    </items>
     <items id="96259c49-f79c-4412-b44b-6812b51da053">
-      <name>КонтрольРабочихФЗ_НЕНАЙДЕНОРабочеФЗ</name>
+      <name>КонтрольРабочихФЗ_НеНайденоРабочеФЗ</name>
       <description>Контроль рабочих ФЗ: НЕ НАЙДЕНО рабоче ФЗ</description>
       <code xsi:type="core:StringValue">
         <value></value>
       </code>
     </items>
     <items id="e6ef53ed-6817-4f86-b0f6-30c469be4a9a">
-      <name>КонтрольРабочихФЗ_ОтмененоПРОСРОЧЕННОЕРабочееФЗ</name>
+      <name>КонтрольРабочихФЗ_ОтмененоПросроченноеРабочееФЗ</name>
       <description>Контроль рабочих ФЗ: отменено ПРОСРОЧЕННОЕ рабочее ФЗ</description>
       <code xsi:type="core:StringValue">
         <value></value>
       </code>
     </items>
     <items id="00c39304-8fa7-4e54-a3f0-251188428ec3">
-      <name>КонтрольРабочихФЗ_ОТМЕНЕНРабочееФЗ</name>
+      <name>КонтрольРабочихФЗ_ОтмененоРабочееФЗ</name>
       <description>Контроль рабочих ФЗ: ОТМЕНЕНО рабочее ФЗ</description>
       <code xsi:type="core:StringValue">
         <value></value>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="88611167-b04c-44c1-9b28-0adfe15b7587">
+  <producedTypes>
+    <managerType typeId="01648c1b-4a72-486a-b95b-7e33d05d62f9" valueTypeId="0552be76-8a0f-4e81-8cef-24bcbbd6d3e5"/>
+    <valueManagerType typeId="1d2f76ba-a617-4845-8eec-ae122040c1bf" valueTypeId="14637e63-01b3-46fa-80d2-9c2df289e2d0"/>
+    <valueKeyType typeId="32674988-b491-4432-9819-bbbd63cbfeec" valueTypeId="158368e8-79aa-450e-b2cd-83120580e71a"/>
+  </producedTypes>
+  <name>ум_УдалятьЛогиФЗ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удалять логи ФЗ</value>
+  </synonym>
+  <type>
+    <types>Boolean</types>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

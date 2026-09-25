@@ -326,7 +326,7 @@
               <key>ru</key>
               <value>Группа изменить состояние флаг</value>
             </toolTip>
-            <width>32</width>
+            <width>30</width>
             <horizontalStretch>false</horizontalStretch>
             <extendedTooltip>
               <name>Группа_ИзменитьСостояние_ФлагРасширеннаяПодсказка</name>
@@ -491,7 +491,7 @@
               <key>ru</key>
               <value>Группа изменить способ обраьотки</value>
             </toolTip>
-            <width>32</width>
+            <width>30</width>
             <horizontalStretch>false</horizontalStretch>
             <extendedTooltip>
               <name>Группа_ИзменитьСпособОбработки_ФлагРасширеннаяПодсказка</name>
@@ -657,7 +657,7 @@
               <key>ru</key>
               <value>Группа изменить способ обраьотки</value>
             </toolTip>
-            <width>32</width>
+            <width>30</width>
             <horizontalStretch>false</horizontalStretch>
             <extendedTooltip>
               <name>Группа_ИзменитьдатуСлОбработки_ФлагРасширеннаяПодсказка</name>
@@ -819,7 +819,7 @@
               <key>ru</key>
               <value>Группа изменить способ обраьотки</value>
             </toolTip>
-            <width>32</width>
+            <width>30</width>
             <horizontalStretch>false</horizontalStretch>
             <extendedTooltip>
               <name>Группа_ИзменитьКоличествоПопытокОбработки_ФлагРасширеннаяПодсказка</name>
@@ -984,7 +984,7 @@
               <key>ru</key>
               <value>Группа изменить способ обраьотки</value>
             </toolTip>
-            <width>32</width>
+            <width>30</width>
             <horizontalStretch>false</horizontalStretch>
             <extendedTooltip>
               <name>Группа_ИзменитьПакетПрипаркован_ФлагРасширеннаяПодсказка</name>
@@ -1207,7 +1207,7 @@
             <id>451</id>
             <title>
               <key>ru</key>
-              <value>Кол-во пакетов на пакет</value>
+              <value>Кол-во на пакет</value>
             </title>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -1338,7 +1338,7 @@
         </extendedTooltip>
         <type>UsualGroup</type>
         <extInfo xsi:type="form:UsualGroupExtInfo">
-          <group>Auto</group>
+          <group>Vertical</group>
           <verticalSpacing>Half</verticalSpacing>
           <behavior>Auto</behavior>
           <representation>Auto</representation>
