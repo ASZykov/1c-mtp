@@ -13,6 +13,9 @@
 Назначение, примеры использования, настройки и инструкции описаны в [Wiki](https://github.com/ASZykov/1c-mtp/wiki) проекта.  
 Готовый дистрибутив можно скачать в разделе [Releases](https://github.com/ASZykov/1c-mtp/releases).
 
+![Инфостарт](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)  
+О проекте можно прочитать в [статье на infostart.ru](https://infostart.ru/public/2796489/).
+
 ## Лицензия 
 Распространяется по лицензии MIT. Подробности смотрите в файле [LICENSE](./LICENSE). 
 Авторские права (c) Зыков Александр Сергеевич 2026
