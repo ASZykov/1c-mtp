@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="68223f02-e8bc-4a16-b668-9204d85682d1">
+  <name>ум_ИнтерактивнаяРаботаСДанными</name>
+  <synonym>
+    <key>ru</key>
+    <value>Интерактивная работа с данными</value>
+  </synonym>
+</mdclass:Role>

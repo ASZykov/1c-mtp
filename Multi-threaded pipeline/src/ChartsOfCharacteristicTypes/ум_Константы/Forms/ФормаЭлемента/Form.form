@@ -760,6 +760,7 @@
     <edit>
       <common>true</common>
     </edit>
+    <savedData>true</savedData>
   </attributes>
   <attributes>
     <name>ДатаУстановкиЗначения</name>
@@ -779,6 +780,7 @@
       <common>true</common>
     </edit>
     <fillChecking>ShowError</fillChecking>
+    <savedData>true</savedData>
   </attributes>
   <formCommands>
     <name>ИсторияЗначений</name>
@@ -829,6 +831,7 @@
       </handler>
     </action>
     <representation>TextPicture</representation>
+    <modifiesStoredData>true</modifiesStoredData>
     <currentRowUse>Auto</currentRowUse>
     <selectedRowsUse>Auto</selectedRowsUse>
   </formCommands>

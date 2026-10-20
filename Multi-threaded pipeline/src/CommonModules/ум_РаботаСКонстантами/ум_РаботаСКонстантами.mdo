@@ -7,6 +7,5 @@
   </synonym>
   <server>true</server>
   <serverCall>true</serverCall>
-  <privileged>true</privileged>
   <returnValuesReuse>DuringSession</returnValuesReuse>
 </mdclass:CommonModule>

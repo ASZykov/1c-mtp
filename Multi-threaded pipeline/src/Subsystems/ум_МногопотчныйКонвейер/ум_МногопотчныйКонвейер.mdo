@@ -19,6 +19,9 @@
   <content>CommonModule.ум_БСП_ОбщегоНазначения</content>
   <content>CommonForm.ум_ФормаПрогрессБар</content>
   <content>CommonPicture.ум_Шестерни</content>
+  <content>Role.ум_ЧтениеПросмотрДанных</content>
+  <content>Role.ум_ИнтерактивнаяРаботаСДанными</content>
+  <content>Role.ум_Администрирование</content>
   <subsystems>МногопоточныйКонвейер</subsystems>
   <subsystems>Константы</subsystems>
 </mdclass:Subsystem>

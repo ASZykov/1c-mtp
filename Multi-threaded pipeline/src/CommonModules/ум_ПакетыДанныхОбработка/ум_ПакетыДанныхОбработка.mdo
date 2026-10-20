@@ -6,5 +6,4 @@
     <value>Пакеты данных данных служебный</value>
   </synonym>
   <server>true</server>
-  <privileged>true</privileged>
 </mdclass:CommonModule>

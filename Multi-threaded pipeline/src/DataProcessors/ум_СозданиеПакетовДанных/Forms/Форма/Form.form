@@ -1123,6 +1123,23 @@
       <common>true</common>
     </edit>
   </attributes>
+  <attributes>
+    <name>ЕстьПравоНаИзменение</name>
+    <title>
+      <key>ru</key>
+      <value>Есть право на изменение</value>
+    </title>
+    <id>8</id>
+    <valueType>
+      <types>Boolean</types>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
   <formCommands>
     <name>СоздатьПакетыДанных</name>
     <title>

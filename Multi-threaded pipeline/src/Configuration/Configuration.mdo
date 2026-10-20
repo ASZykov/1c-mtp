@@ -16,7 +16,7 @@
   <usePurposes>PersonalComputer</usePurposes>
   <scriptVariant>Russian</scriptVariant>
   <vendor>Зыков Александр Сергеевич</vendor>
-  <version>3.0.0.3</version>
+  <version>3.0.0.4</version>
   <usedMobileApplicationFunctionalities/>
   <caption>
     <key>ru</key>
@@ -65,7 +65,9 @@
   </languages>
   <subsystems>Subsystem.ум_МногопотчныйКонвейер</subsystems>
   <commonPictures>CommonPicture.ум_Шестерни</commonPictures>
-  <roles>Role.ум_ЧтениеПакетыДанных</roles>
+  <roles>Role.ум_Администрирование</roles>
+  <roles>Role.ум_ИнтерактивнаяРаботаСДанными</roles>
+  <roles>Role.ум_ЧтениеПросмотрДанных</roles>
   <commonTemplates>CommonTemplate.ум_ОписаниеПреобразованияXSLДляОтображенияXML</commonTemplates>
   <commonModules>CommonModule.ум_БСП_КомпоновкаДанныхКлиентСервер</commonModules>
   <commonModules>CommonModule.ум_БСП_ОбщегоНазначения</commonModules>

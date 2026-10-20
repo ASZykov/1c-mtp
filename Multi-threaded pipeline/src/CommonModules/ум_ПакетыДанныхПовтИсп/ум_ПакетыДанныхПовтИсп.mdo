@@ -6,6 +6,5 @@
     <value>Ум пакеты данных повт исп</value>
   </synonym>
   <server>true</server>
-  <privileged>true</privileged>
   <returnValuesReuse>DuringSession</returnValuesReuse>
 </mdclass:CommonModule>

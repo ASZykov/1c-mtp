@@ -1704,6 +1704,7 @@
       <common>true</common>
     </edit>
     <fillChecking>ShowError</fillChecking>
+    <savedData>true</savedData>
   </attributes>
   <attributes>
     <name>Состояние</name>
@@ -1722,6 +1723,7 @@
       <common>true</common>
     </edit>
     <fillChecking>ShowError</fillChecking>
+    <savedData>true</savedData>
   </attributes>
   <attributes>
     <name>СтрокаИдентификаторПакета</name>
