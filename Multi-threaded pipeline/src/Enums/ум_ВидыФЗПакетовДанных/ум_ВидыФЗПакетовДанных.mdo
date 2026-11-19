@@ -43,10 +43,10 @@
     </synonym>
   </enumValues>
   <enumValues uuid="f0ee2a6d-2cee-46ba-a9ab-236b2a401f4c">
-    <name>УпровляющееФЗ</name>
+    <name>УправляющееФЗ</name>
     <synonym>
       <key>ru</key>
-      <value>Упровляющее ФЗ</value>
+      <value>Управляющее ФЗ</value>
     </synonym>
   </enumValues>
   <enumValues uuid="64d4315c-f2b2-4e0f-bc4c-b2e0880e155f">
